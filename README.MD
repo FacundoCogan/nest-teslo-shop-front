@@ -9,4 +9,4 @@
 yarn dev
 ```
 
-2. Abrir el localhost indicado en consola en el navegador web.# nest-teslo-shop-front
+2. Abrir el localhost indicado en consola en el navegador web.
